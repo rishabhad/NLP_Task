@@ -8,3 +8,5 @@ y=torch.tensor([1,2,3,4])
 z=x+y
 print(z)
 
+p= torch.tensor([4,8,9,10])
+
